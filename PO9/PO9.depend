@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687428430 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po9\main.cpp
+	<iostream>
+	"Ttime.h"
+
+1687428448 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po9\include\ttime.h
+	<ostream>
+
+1687428267 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po9\src\ttime.cpp
+	"Ttime.h"
+	<iostream>
+
