@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1682065407 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\main.cpp
+	<iostream>
+	<string>
+	"Tinstrument.h"
+	"Ttrabka.h"
+	"Tskrzypce.h"
+
+1682065537 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\include\tinstrument.h
+	<string>
+
+1682065537 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\include\ttrabka.h
+	<string>
+	<Tinstrument.h>
+
+1682065537 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\include\tskrzypce.h
+	<string>
+	<Tinstrument.h>
+
+1682065137 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\src\tinstrument.cpp
+	"Tinstrument.h"
+	<iostream>
+	<string>
+
+1681940149 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\src\ttrabka.cpp
+	"Ttrabka.h"
+	<string>
+	<iostream>
+
+1681940149 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad1\src\tskrzypce.cpp
+	"Tskrzypce.h"
+	<string>
+	<iostream>
+

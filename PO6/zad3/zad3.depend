@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1683194753 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\src\ifigura.cpp
+	"Ifigura.h"
+	<iostream>
+
+1683194753 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\include\ifigura.h
+	<string>
+
+1683195190 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\src\tkolo2.cpp
+	"Tkolo2.h"
+	<iostream>
+	<math.h>
+
+1683195172 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\include\tkolo2.h
+	<string>
+	<Ifigura.h>
+
+1683195580 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\src\tkwadrat2.cpp
+	"Tkwadrat2.h"
+	<iostream>
+	<math.h>
+
+1683195580 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\include\tkwadrat2.h
+	<string>
+	<Tprostokat2.h>
+
+1683195580 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\include\tprostokat2.h
+	<string>
+	<Ifigura.h>
+
+1683195579 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\src\tprostokat2.cpp
+	"Tprostokat2.h"
+	<iostream>
+
+1683195859 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad3\main.cpp
+	<iostream>
+	"Ifigura.h"
+	"Tkolo2.h"
+	"Tprostokat2.h"
+	"Tkwadrat2.h"
+

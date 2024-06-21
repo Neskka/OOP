@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1682204663 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad2\main.cpp
+	<iostream>
+	<string>
+	"Tfigura.h"
+	"Tkolo.h"
+
+1682203430 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad2\include\tfigura.h
+	<string>
+
+1682202830 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad2\include\tkolo.h
+	<string>
+	<Tfigura.h>
+
+1682204522 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad2\src\tfigura.cpp
+	"Tfigura.h"
+	<iostream>
+	<string>
+
+1682204636 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po6\zad2\src\tkolo.cpp
+	"Tkolo.h"
+	<string>
+	<iostream>
+	<math.h>
+
