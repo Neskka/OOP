@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1683120919 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\src\tdzialania.cpp
+	"Tdzialania.h"
+	<iostream>
+	<math.h>
+
+1683120840 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\include\tdzialania.h
+
+1683124900 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\main.cpp
+	<iostream>
+	"Tdzialania.h"
+	"Tpracownik.h"
+	"Tstudent.h"
+
+1683123264 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\include\tpracownik.h
+	<string>
+
+1683123264 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1683124900 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\include\tstudent.h
+	<string>
+
+1683125028 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po2\zad1\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+
