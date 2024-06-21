@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1680188633 source:c:\users\student\desktop\am\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<string>
+
+1680188594 c:\users\student\desktop\am\include\tstudent.h
+	<Tosoba.h>
+	<iostream>
+	<string>
+
+1680186044 c:\users\student\desktop\am\include\tosoba.h
+	<iostream>
+	<string>
+
+1680188655 source:c:\users\student\desktop\am\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Tstudent.h"
+
+1680187291 source:c:\users\student\desktop\am\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+	<string>
+
+1681382115 source:c:\users\agama\onedrive\pulpit\am\am\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Tstudent.h"
+	"Tpracownik.h"
+	"TpracownikFizyczny.h"
+	"TpracownikUmyslowy.h"
+
+1680725333 c:\users\agama\onedrive\pulpit\am\am\include\tosoba.h
+	<iostream>
+	<string>
+
+1680725333 c:\users\agama\onedrive\pulpit\am\am\include\tstudent.h
+	<Tosoba.h>
+	<iostream>
+	<string>
+
+1680725333 source:c:\users\agama\onedrive\pulpit\am\am\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+	<string>
+
+1681376327 source:c:\users\agama\onedrive\pulpit\am\am\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<string>
+
+1681382115 c:\users\agama\onedrive\pulpit\am\am\include\tpracownik.h
+	<string>
+	<Tosoba.h>
+
+1681382144 source:c:\users\agama\onedrive\pulpit\am\am\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+	<string>
+
+1681382199 c:\users\agama\onedrive\pulpit\am\am\include\tpracownikfizyczny.h
+	<string>
+	<Tpracownik.h>
+
+1681382199 c:\users\agama\onedrive\pulpit\am\am\include\tpracownikumyslowy.h
+	<string>
+	<Tpracownik.h>
+
+1681382115 source:c:\users\agama\onedrive\pulpit\am\am\src\tpracownikfizyczny.cpp
+	"TpracownikFizyczny.h"
+	<iostream>
+	<string>
+

@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1683191003 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Tstudent.h"
+	"Tpracownik.h"
+	"TpracownikFizyczny.h"
+	"TpracownikUmyslowy.h"
+
+1683190347 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1683190154 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\include\tpracownik.h
+	<string>
+	<Tosoba.h>
+
+1683189207 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\include\tosoba.h
+	<string>
+
+1683191019 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\src\tpracownikfizyczny.cpp
+	"TpracownikFizyczny.h"
+	<iostream>
+
+1683190590 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\include\tpracownikfizyczny.h
+	<string>
+	<Tpracownik.h>
+
+1683191019 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\src\tpracownikumyslowy.cpp
+	"TpracownikUmyslowy.h"
+	<iostream>
+
+1683191003 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\include\tpracownikumyslowy.h
+	<string>
+	<Tpracownik.h>
+
+1683189217 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+
+1683189468 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\include\tstudent.h
+	<string>
+	<Tosoba.h>
+
+1683189841 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po5\zad1\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+
