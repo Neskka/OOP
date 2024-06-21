@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683135887 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad3\main.cpp
+	<iostream>
+	"Ttrojkat.h"
+
+1683135915 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad3\include\ttrojkat.h
+
+1683136388 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad3\src\ttrojkat.cpp
+	"Ttrojkat.h"
+	<iostream>
+	<math.h>
+

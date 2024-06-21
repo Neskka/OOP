@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683146077 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad4\main.cpp
+	<iostream>
+	"Tsamochod.h"
+
+1683146066 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad4\include\tsamochod.h
+	<string>
+
+1683146121 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po3\zad4\src\tsamochod.cpp
+	"Tsamochod.h"
+	<iostream>
+
