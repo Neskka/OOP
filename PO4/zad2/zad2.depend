@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683157878 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad2\main.cpp
+	<iostream>
+	"TosobaS.h"
+
+1683154256 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad2\include\tosobas.h
+	<string>
+
+1683157933 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad2\src\tosobas.cpp
+	"TosobaS.h"
+	<iostream>
+

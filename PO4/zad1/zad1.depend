@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1683150393 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad1\src\tdata.cpp
+	"Tdata.h"
+	<iostream>
+
+1683150605 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad1\include\tdata.h
+
+1683150605 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad1\src\tosoba2.cpp
+	"Tosoba2.h"
+	<iostream>
+	"Tdata.h"
+	<math.h>
+	<string>
+
+1683150605 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad1\include\tosoba2.h
+	<string>
+	"Tdata.h"
+
+1683157523 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po4\zad1\main.cpp
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+

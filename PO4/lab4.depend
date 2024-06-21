@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679578914 source:c:\users\agama\onedrive\dokumenty\c++\lab4\src\tdata.cpp
+	"Tdata.h"
+
+1679578914 c:\users\agama\onedrive\dokumenty\c++\lab4\include\tdata.h
+	<iostream>
+
+1679580052 source:c:\users\agama\onedrive\dokumenty\c++\lab4\main.cpp
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+
+1679578914 c:\users\agama\onedrive\dokumenty\c++\lab4\include\tosoba2.h
+	<iostream>
+	<sstream>
+	"Tdata.h"
+
