@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1683200145 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\main.cpp
+	<iostream>
+	"Tdokument.h"
+	"Tfaktura.h"
+	"Ttowar.h"
+	"Tklient.h"
+
+1683198067 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\include\tdokument.h
+	<string>
+
+1683199206 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\include\tfaktura.h
+	<string>
+	<Tdokument.h>
+	"Tklient.h"
+	"Ttowar.h"
+
+1683198960 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\include\ttowar.h
+	<string>
+
+1683199179 c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\include\tklient.h
+	<string>
+
+1683200693 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\src\tdokument.cpp
+	"Tdokument.h"
+	<iostream>
+
+1683201652 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\src\tfaktura.cpp
+	"Tfaktura.h"
+	<iostream>
+
+1683199179 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\src\tklient.cpp
+	"Tklient.h"
+	<iostream>
+
+1683200693 source:c:\users\agama\onedrive\dokumenty\c++\programowanie obiektowe\po7\zad1\src\ttowar.cpp
+	"Ttowar.h"
+	<iostream>
+
